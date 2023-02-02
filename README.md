@@ -1,6 +1,6 @@
 <div class="container2" >
  <h3>Chicago Bus Tracker</h3><br>
- <img src="./BusTrackerIcon1.png">
+ <img src="./BusTracker.png">
 </div>
 
 </body>
